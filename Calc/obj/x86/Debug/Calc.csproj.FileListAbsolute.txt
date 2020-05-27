@@ -1,0 +1,27 @@
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\obj\x86\Debug\Calc.Calc.resources
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\bin\Debug\Calc.exe
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\bin\Debug\Calc.pdb
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\obj\x86\Debug\Calc.exe
+D:\Documents and Settings\Denis\Local Settings\Application Data\Temporary Projects\Calc\obj\x86\Debug\Calc.pdb
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.exe
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.pdb
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.exe
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.pdb
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.Calc.resources
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Denis\мои документы\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Denis\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.Calc.resources
+C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.exe
+C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.pdb
