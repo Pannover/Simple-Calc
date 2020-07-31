@@ -39,47 +39,33 @@ namespace Calc
                 lastN += i;
                 textBox1.Text = lastN;
             }
-        }
-
-        private void button1_Click(object sender, EventArgs e) // Обработчик кнокпи "1"
-        {
-            ClicNumButton(1);
-        }
+        }        
 
         private void buttonDel_Click(object sender, EventArgs e) // Обработчик кнопки "/"
         {
-            if (firstN == null)
-            {
-            }
-            else
+            if (firstN != null)
             {
                 flag = true;
                 textBox1.Text = "/";
                 oper = "/";
-            }
+            }           
         }
 
         private void buttonUm_Click(object sender, EventArgs e) // Обработчик кнопки "*"
         {
-            if (firstN == null)
-            {
-            }
-            else
+            if (firstN != null)
             {
                 flag = true;
                 textBox1.Text = "*";
                 oper = "*";
-            }
+            }           
         }
 
         private void buttonSum_Click(object sender, EventArgs e)    // Обработчик кнопки "+"
         {
-            if (firstN == null)
+            if (firstN != null)
             {
-            }
-            else
-            {
-                flag = true;
+                 flag = true;
                 textBox1.Text = "+";
                 oper = "+";
             }
@@ -87,10 +73,7 @@ namespace Calc
 
         private void buttonMin_Click(object sender, EventArgs e)    // Обработчик кнопки "-"
         {
-            if (firstN == null)
-            {
-            }
-            else
+            if (firstN != null)
             {
                 flag = true;
                 textBox1.Text = "-";
@@ -104,8 +87,17 @@ namespace Calc
             {
                 double a = Convert.ToDouble(firstN);
                 double b = Convert.ToDouble(lastN);
-                Result = a / b;
-                textBox1.Text = Convert.ToString(Result);
+
+                if (b == 0)
+                {
+                    MessageBox.Show("Деление на 0 не допустимо!");
+                }
+                else
+                {
+                    Result = a / b;
+                    textBox1.Text = Convert.ToString(Result);
+                }
+
             }
 
             if (oper == "*")
@@ -143,6 +135,11 @@ namespace Calc
             flag = false;
             flagComma = false;
             flagComma1 = false;
+        }
+
+        private void button1_Click(object sender, EventArgs e) // Обработчик кнокпи "1"
+        {
+            ClicNumButton(1);
         }
 
         private void button2_Click(object sender, EventArgs e) // Обработчик кнопки "2"

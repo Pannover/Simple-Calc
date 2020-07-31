@@ -25,3 +25,12 @@ C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.csproj.GenerateResource
 C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.csproj.CoreCompileInputs.cache
 C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.exe
 C:\Users\Denis\source\repos\Calc\Calc\obj\x86\Debug\Calc.pdb
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\obj\x86\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\obj\x86\Debug\Calc.Calc.resources
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\obj\x86\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\obj\x86\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\obj\x86\Debug\Calc.exe
+C:\Users\Denis\Source\Repos\Pannover\Simple-Calc\Calc\obj\x86\Debug\Calc.pdb
